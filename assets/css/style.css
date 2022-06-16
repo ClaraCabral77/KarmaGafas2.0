@@ -1581,6 +1581,10 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+
+  #mapa{
+    margin-left: 0%;
+  }
 }
 
 /*--------------------------------------------------------------
